@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="multidict" />
+            <item index="1" class="java.lang.String" itemvalue="PyQt5-Qt5" />
+            <item index="2" class="java.lang.String" itemvalue="httpx" />
+            <item index="3" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="4" class="java.lang.String" itemvalue="openai" />
+            <item index="5" class="java.lang.String" itemvalue="pydantic" />
+            <item index="6" class="java.lang.String" itemvalue="pydantic_core" />
+            <item index="7" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="8" class="java.lang.String" itemvalue="llama-index" />
+            <item index="9" class="java.lang.String" itemvalue="embedchain" />
+            <item index="10" class="java.lang.String" itemvalue="langchain" />
+            <item index="11" class="java.lang.String" itemvalue="grpcio" />
+            <item index="12" class="java.lang.String" itemvalue="langsmith" />
+            <item index="13" class="java.lang.String" itemvalue="google-auth" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E265" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
